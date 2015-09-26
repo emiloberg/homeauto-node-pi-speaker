@@ -1,0 +1,19 @@
+{
+  "name": "homeauto-node-pi-speaker",
+  "version": "1.0.0",
+  "description": "Node server on my Raspberry Pi Speakers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "audio"
+  ],
+  "author": "Emil Oberg",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
